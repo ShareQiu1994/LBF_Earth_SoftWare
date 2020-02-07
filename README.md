@@ -9,3 +9,14 @@
 [http://liubf.com/setup/LBF_Earth_SoftWare_Setup.exe](http://liubf.com/setup/LBF_Earth_SoftWare_Setup.exe)<br/>
 [https://raw.githubusercontent.com/ShareQiu1994/LBF_Earth_SoftWare/master/LBF_Earth_SoftWare_Setup.exe](https://raw.githubusercontent.com/ShareQiu1994/LBF_Earth_SoftWare/master/LBF_Earth_SoftWare_Setup.exe)<br/>
 ![Image text](http://liubf.com/wp-content/uploads/2020/02/IMOSCKQBS7J_ICJ_S3N.jpg)<br/>
+
+# 更新记录
+
+2020/02/07 
+1.增加全国疫情模块(含数据统计、实时播报、疫情地图)
+2.修复绘制功能编辑失效问题
+3.修复天气弹窗布局错误问题
+
+2020/02/02
+1.界面布局调整
+
