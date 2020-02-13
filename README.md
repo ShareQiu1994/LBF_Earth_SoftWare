@@ -7,16 +7,16 @@
 # 下载地址
 
 [http://liubf.com/setup/LBF_Earth_SoftWare_Setup.exe](http://liubf.com/setup/LBF_Earth_SoftWare_Setup.exe)<br/>
-[https://raw.githubusercontent.com/ShareQiu1994/LBF_Earth_SoftWare/master/LBF_Earth_SoftWare_Setup.exe](https://raw.githubusercontent.com/ShareQiu1994/LBF_Earth_SoftWare/master/LBF_Earth_SoftWare_Setup.exe)<br/>
+
 ![Image text](http://liubf.com/wp-content/uploads/2020/02/IMOSCKQBS7J_ICJ_S3N.jpg)<br/>
 
 # 更新记录
 
-##2020/02/12
+## 2020/02/12
 
 1.二次开发模块—增加疫情地图回顾功能，时空可视化呈现全国疫情 2020-01-22 至今的历史变化回顾
 
-##2020/02/09
+## 2020/02/09
 
 1.二次开发模块—疫情地图数据美化，增加悬浮 tootip 效果
 
@@ -24,7 +24,7 @@
 
 3.时钟模块——新增日期
 
-##2020/02/07
+## 2020/02/07
 
 1.二次开发模块—增加全国疫情模块(含数据统计、实时播报、疫情地图)
 
