@@ -4,13 +4,25 @@
 
 合作、二次开发加 Q:421419567 微 x:qiul1994
 
-# 下载地址
+# C/S软件安装版下载地址
 
 [http://liubf.com/setup/LBF_Earth_SoftWare_Setup.exe](http://liubf.com/setup/LBF_Earth_SoftWare_Setup.exe)<br/>
+
+# B/S网页版本浏览地址
+
+[http://liubf.com/LBF_Earth_SoftWare](http://liubf.com/LBF_Earth_SoftWare)<br/>
 
 ![Image text](http://liubf.com/wp-content/uploads/2020/02/IMOSCKQBS7J_ICJ_S3N.jpg)<br/>
 
 # 更新记录
+
+## 2020/02/26
+
+1.后台—后台服务全新升级
+
+2.系统设置模块—皮肤更新
+
+3. 二次开发模块— 疫情Bug修复，疫情历史回顾增加时间动画部件
 
 ## 2020/02/12
 
