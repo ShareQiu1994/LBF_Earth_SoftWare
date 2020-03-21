@@ -14,6 +14,10 @@
 
 ![Image text](http://liubf.com/wp-content/uploads/2020/02/IMOSCKQBS7J_ICJ_S3N.jpg)<br/>
 
+# 查看以往版本
+
+[https://github.com/ShareQiu1994/LBF_Earth_SoftWare/releases](https://github.com/ShareQiu1994/LBF_Earth_SoftWare/releases)<br/>
+
 # 更新记录
 
 ## 2020/03/21
